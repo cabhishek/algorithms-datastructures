@@ -1,0 +1,15 @@
+h:\my documents\visual studio 2010\Projects\CodingPractice\CodingPractice\bin\Debug\CodingPractice.exe
+h:\my documents\visual studio 2010\Projects\CodingPractice\CodingPractice\bin\Debug\CodingPractice.pdb
+h:\my documents\visual studio 2010\Projects\CodingPractice\CodingPractice\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\my documents\visual studio 2010\Projects\CodingPractice\CodingPractice\obj\x86\Debug\CodingPractice.exe
+h:\my documents\visual studio 2010\Projects\CodingPractice\CodingPractice\obj\x86\Debug\CodingPractice.pdb
+H:\My Documents\My Dropbox\CodingPractice\CodingPractice\obj\x86\Debug\CodingPractice.exe
+H:\My Documents\My Dropbox\CodingPractice\CodingPractice\obj\x86\Debug\CodingPractice.pdb
+C:\CodingPractice\CodingPractice\obj\x86\Debug\CodingPractice.exe
+C:\CodingPractice\CodingPractice\obj\x86\Debug\CodingPractice.pdb
+C:\CodingPractice\CodingPractice\bin\Debug\CodingPractice.exe
+C:\CodingPractice\CodingPractice\bin\Debug\CodingPractice.pdb
+C:\CodingPractice\CodingPractice\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Documents\My Dropbox\CodingPractice\CodingPractice\bin\Debug\CodingPractice.exe
+H:\My Documents\My Dropbox\CodingPractice\CodingPractice\bin\Debug\CodingPractice.pdb
+H:\My Documents\My Dropbox\CodingPractice\CodingPractice\obj\x86\Debug\ResolveAssemblyReference.cache
