@@ -13,3 +13,8 @@ C:\CodingPractice\CodingPractice\obj\x86\Debug\ResolveAssemblyReference.cache
 H:\My Documents\My Dropbox\CodingPractice\CodingPractice\bin\Debug\CodingPractice.exe
 H:\My Documents\My Dropbox\CodingPractice\CodingPractice\bin\Debug\CodingPractice.pdb
 H:\My Documents\My Dropbox\CodingPractice\CodingPractice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\OfficeProjects\CodingPractice\obj\x86\Debug\CodingPractice.exe
+C:\OfficeProjects\CodingPractice\obj\x86\Debug\CodingPractice.pdb
+C:\OfficeProjects\CodingPractice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\OfficeProjects\CodingPractice\bin\Debug\CodingPractice.exe
+C:\OfficeProjects\CodingPractice\bin\Debug\CodingPractice.pdb

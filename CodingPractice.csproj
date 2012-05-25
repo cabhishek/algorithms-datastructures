@@ -128,12 +128,8 @@
     <Compile Include="Stacks\StackRunner.cs" />
     <Compile Include="Strings\StringPermute.cs" />
     <Compile Include="BST\TempBST.cs" />
-    <Compile Include="temp.cs" />
     <Compile Include="TernaryTree\TernaryTree.cs" />
     <Compile Include="TernaryTree\TernaryTreeRunner.cs" />
-    <Compile Include="WorkTestFiles\IssueParser.cs" />
-    <Compile Include="WorkTestFiles\NotInList.cs" />
-    <Compile Include="WorkTestFiles\TestMFD.cs" />
     <Compile Include="HashMap\TwoSameList.cs" />
     <Compile Include="LinkedList\FrontBackSplit.cs" />
   </ItemGroup>

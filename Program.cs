@@ -1,4 +1,5 @@
-﻿using CodingPractice.Arrays;
+﻿using System.Threading;
+using CodingPractice.Arrays;
 using CodingPractice.BitMagic;
 using CodingPractice.BST;
 using CodingPractice.Counting;
@@ -10,7 +11,7 @@ using CodingPractice.Recursion;
 using CodingPractice.Sorts;
 using CodingPractice.Strings;
 using CodingPractice.TernaryTree;
-using CodingPractice.WorkTestFiles;
+
 
 namespace CodingPractice
 {
@@ -83,10 +84,10 @@ namespace CodingPractice
             //InsertionOfTwoList.run();
 
             //CountingRunner.run();
-            //IssueParser.run();
 
-            //temp.run();
             // new TypeTest().printType();
+
+			Thread.Sleep(2000);
         }
     }
 }
