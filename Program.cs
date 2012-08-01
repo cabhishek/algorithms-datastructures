@@ -8,6 +8,7 @@ using CodingPractice.Heap;
 using CodingPractice.LinkedList;
 using CodingPractice.Maths;
 using CodingPractice.Recursion;
+using CodingPractice.Shuffle;
 using CodingPractice.Sorts;
 using CodingPractice.Strings;
 using CodingPractice.TernaryTree;
@@ -37,7 +38,7 @@ namespace CodingPractice
 
 
             /*Tree Implementaions*/
-            BSTRunner.run();
+            //BSTRunner.run();
             //TernaryTreeRunner.run();
 
             // MergeSort.run();
@@ -85,9 +86,8 @@ namespace CodingPractice
 
             //CountingRunner.run();
 
-            // new TypeTest().printType();
 
-			Thread.Sleep(2000);
+			FisherYates.run();
         }
     }
 }

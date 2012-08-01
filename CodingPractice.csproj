@@ -76,6 +76,7 @@
     <Compile Include="Graph\ShortestPathSearch.cs" />
     <Compile Include="Heap\tempHeap.cs" />
     <Compile Include="Maths\Fibonacci.cs" />
+    <Compile Include="Shuffle\FisherYates.cs" />
     <Compile Include="Strings\DuplicatesInString.cs" />
     <Compile Include="Maths\GeneratePrimeNumbers.cs" />
     <Compile Include="Graph\BreadthFirstSearch.cs" />
