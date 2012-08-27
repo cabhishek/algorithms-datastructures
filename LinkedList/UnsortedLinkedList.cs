@@ -72,6 +72,28 @@ namespace CodingPractice.LinkedList
             list = prevNode;
         }
 
+		public void recursiveReverse()
+		{
+			var revNode = new ListNode();
+			list = recRev(list, revNode);
+		}
+
+		public ListNode recRev(ListNode node, ListNode revNode)
+		{
+			if (node.next == null) // when you reach the end. BASE case
+			{
+				node.next = revNode;
+				revNode = node;
+			}
+			else  //general case
+			{
+				revNode = recRev(node.next, revNode);
+				node.next = revNode;
+				revNode = node;
+			}
+			return revNode;
+		}
+
         public void Print()
         {
             print(list);

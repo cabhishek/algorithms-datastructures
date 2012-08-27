@@ -7,12 +7,10 @@ namespace CodingPractice.TernaryTree
         public static void run()
         {
             var tree = new TernaryTree();
-            tree.Add("ab");
-            tree.Add("abba");
-            tree.Add("abcd");
-            tree.Add("bcd");
-
-            Console.WriteLine(tree.Contains("aa"));
+			tree.Add("rat");
+			tree.Add("rate");
+			tree.Add("rum");
+            Console.WriteLine(tree.Contains("rate"));
         }
     }
 }

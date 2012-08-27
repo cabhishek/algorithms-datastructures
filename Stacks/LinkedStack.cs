@@ -11,9 +11,7 @@ namespace CodingPractice.Stacks
             top = null;
         }
 
-        #region Implementation of IStack
-
-        public void push(object item)
+    	public void push(object item)
         {
             var node = new StackNode {info = item, link = top};
             top = node;
@@ -44,9 +42,7 @@ namespace CodingPractice.Stacks
             return false;
         }
 
-        #endregion
-
-        #region Nested type: StackNode
+    	#region Nested type: StackNode
 
         private class StackNode
         {

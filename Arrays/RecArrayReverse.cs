@@ -11,7 +11,7 @@ namespace CodingPractice.Arrays
         {
             arr = new[] {1, 2, 3, 4, 5, 6, 7, 8};
             SIZE = arr.Length - 1;
-            reverse(0,SIZE);
+        	reverse(0, SIZE);
             Console.WriteLine(string.Join(",", arr));
         }
 

@@ -76,7 +76,9 @@
     <Compile Include="Graph\ShortestPathSearch.cs" />
     <Compile Include="Heap\tempHeap.cs" />
     <Compile Include="Maths\Fibonacci.cs" />
+    <Compile Include="Recursion\Combinations.cs" />
     <Compile Include="Shuffle\FisherYates.cs" />
+    <Compile Include="Stacks\ArrayStack.cs" />
     <Compile Include="Strings\DuplicatesInString.cs" />
     <Compile Include="Maths\GeneratePrimeNumbers.cs" />
     <Compile Include="Graph\BreadthFirstSearch.cs" />
@@ -128,7 +130,7 @@
     <Compile Include="Queues\LinkedQueue.cs" />
     <Compile Include="Stacks\StackRunner.cs" />
     <Compile Include="Strings\StringPermute.cs" />
-    <Compile Include="BST\TempBST.cs" />
+    <Compile Include="BST\BinarySearchTree.cs" />
     <Compile Include="TernaryTree\TernaryTree.cs" />
     <Compile Include="TernaryTree\TernaryTreeRunner.cs" />
     <Compile Include="HashMap\TwoSameList.cs" />

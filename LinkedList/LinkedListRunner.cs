@@ -12,16 +12,17 @@
             //Console.WriteLine(unsortedLinkedList.isThere(55));
             //Console.WriteLine(unsortedLinkedList.isThere(554));
 
-            var sortedLinkedList = new SortedLinkedList();
-            sortedLinkedList.insert(8);
-            sortedLinkedList.insert(4);
-            sortedLinkedList.insert(16);
-            sortedLinkedList.insert(58);
-            sortedLinkedList.insert(11);
-            sortedLinkedList.insert(12);
-            sortedLinkedList.insert(3);
-            sortedLinkedList.insert(1);
+            var unsortedLinkedList = new UnsortedLinkedList();
+            unsortedLinkedList.insert(8);
+            unsortedLinkedList.insert(4);
+            unsortedLinkedList.insert(16);
+            unsortedLinkedList.insert(6);
+            unsortedLinkedList.insert(2);
+      
 
+			unsortedLinkedList.recursiveReverse();
+
+			unsortedLinkedList.Print();
 
             //Console.WriteLine(sortedLinkedList.isThere(55));
             //Console.WriteLine(sortedLinkedList.isThere(554));
@@ -29,7 +30,6 @@
             //sortedLinkedList.printList();
             //sortedLinkedList.printReversed();
 
-            sortedLinkedList.reverseKth(3);
             //sortedLinkedList.printReversed();
 
             //var sortedLinkedList = new CircularSortedLinkedList();

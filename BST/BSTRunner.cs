@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace CodingPractice.BST
 {
@@ -19,7 +20,7 @@ namespace CodingPractice.BST
             //Console.WriteLine(bst.IsThere(156));
             //Console.WriteLine(bst.Retrive(12));
 
-            TempBST node = new TempBST();
+            BinarySearchTree node = new BinarySearchTree();
             /*node.insert(10);
             node.insert(7);
             node.insert(15);
@@ -29,17 +30,24 @@ namespace CodingPractice.BST
             node.insert(1);*/
             
             //node.balance();
-            node.insert(10);
-            node.insert(5);
-            node.insert(18);
-            node.insert(7);
-            node.insert(12);
-            node.insert(4);
-            node.delete(5);
+				node.Insert(5);
+			  node.Insert(4);
+			  node.Insert(7);
+			  node.Insert(3);
+			  node.Insert(6);
+			  node.Insert(2);
+			  node.Insert(9);
 
-            node.PrintRootToLeavePath();
-        
-            //Console.WriteLine(node.getNodeLevel(10));
+            //node.PrintRootToLeavePath();
+
+        	Console.WriteLine(node.IsBalanced());
+
+		  node.Balance();
+
+			Console.WriteLine(node.IsBalanced());
+			Console.WriteLine(node.IsBinarySearchTree());
+			Thread.Sleep(10000);
+        	//Console.WriteLine(node.getNodeLevel(10));
         }
     }
 }
