@@ -1,4 +1,8 @@
-﻿namespace CodingPractice
+﻿using CodingPractice.BST;
+using CodingPractice.Counting;
+using CodingPractice.LinkedList;
+
+namespace CodingPractice
 {
 	internal class Program
 	{
@@ -22,7 +26,7 @@
 
 
 			/*Tree Implementaions*/
-			//BSTRunner.run();
+			BSTRunner.run();
 			//TernaryTreeRunner.run();
 
 			// MergeSort.run();

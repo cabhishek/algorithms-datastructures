@@ -12,17 +12,12 @@
             //Console.WriteLine(unsortedLinkedList.isThere(55));
             //Console.WriteLine(unsortedLinkedList.isThere(554));
 
-            var unsortedLinkedList = new UnsortedLinkedList();
-            unsortedLinkedList.insert(8);
-            unsortedLinkedList.insert(4);
-            unsortedLinkedList.insert(16);
-            unsortedLinkedList.insert(6);
-            unsortedLinkedList.insert(2);
+            var linkedList = new CircularSortedLinkedList();
+            linkedList.insert(8);
+            linkedList.insert(4);
+            linkedList.insert(16);
+            linkedList.insert(6);
       
-
-			unsortedLinkedList.recursiveReverse();
-
-			unsortedLinkedList.Print();
 
             //Console.WriteLine(sortedLinkedList.isThere(55));
             //Console.WriteLine(sortedLinkedList.isThere(554));

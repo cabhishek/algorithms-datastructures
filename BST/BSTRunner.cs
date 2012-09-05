@@ -20,7 +20,7 @@ namespace CodingPractice.BST
             //Console.WriteLine(bst.IsThere(156));
             //Console.WriteLine(bst.Retrive(12));
 
-            BinarySearchTree node = new BinarySearchTree();
+            var node = new BinarySearchTree();
             /*node.insert(10);
             node.insert(7);
             node.insert(15);
@@ -30,7 +30,7 @@ namespace CodingPractice.BST
             node.insert(1);*/
             
             //node.balance();
-				node.Insert(5);
+			  node.Insert(5);
 			  node.Insert(4);
 			  node.Insert(7);
 			  node.Insert(3);
@@ -40,12 +40,12 @@ namespace CodingPractice.BST
 
             //node.PrintRootToLeavePath();
 
-        	Console.WriteLine(node.IsBalanced());
+		  //  Console.WriteLine(node.IsBalanced());
 
-		  node.Balance();
+		  //node.Balance();
 
-			Console.WriteLine(node.IsBalanced());
-			Console.WriteLine(node.IsBinarySearchTree());
+		  //  Console.WriteLine(node.IsBalanced());
+		    Console.WriteLine(node.IsBinarySearchTree());
 			Thread.Sleep(10000);
         	//Console.WriteLine(node.getNodeLevel(10));
         }
