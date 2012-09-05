@@ -38,8 +38,7 @@ namespace CodingPractice.BST
 			  node.Insert(2);
 			  node.Insert(9);
 
-            //node.PrintRootToLeavePath();
-
+            node.PrintRootToLeavePath();
 		  //  Console.WriteLine(node.IsBalanced());
 
 		  //node.Balance();

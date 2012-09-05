@@ -75,12 +75,9 @@
     <Compile Include="Counting\NoOfOccurrence.cs" />
     <Compile Include="Graph\ShortestPathSearch.cs" />
     <Compile Include="Heap\tempHeap.cs" />
-    <Compile Include="Maths\Fibonacci.cs" />
     <Compile Include="Recursion\Combinations.cs" />
     <Compile Include="Shuffle\FisherYates.cs" />
     <Compile Include="Stacks\ArrayStack.cs" />
-    <Compile Include="Strings\DuplicatesInString.cs" />
-    <Compile Include="Maths\GeneratePrimeNumbers.cs" />
     <Compile Include="Graph\BreadthFirstSearch.cs" />
     <Compile Include="Graph\DepthFirstSearch.cs" />
     <Compile Include="Graph\GraphRunner.cs" />
@@ -91,8 +88,6 @@
     <Compile Include="Heap\HeapRunner.cs" />
     <Compile Include="Heap\IPriorityQueue.cs" />
     <Compile Include="Heap\MinHeap.cs" />
-    <Compile Include="Maths\GCD.cs" />
-    <Compile Include="Maths\IsPrime.cs" />
     <Compile Include="LinkedList\LinkedListNodeDelete.cs" />
     <Compile Include="LinkedList\AlternateList.cs" />
     <Compile Include="LinkedList\CircularSortedLinkedList.cs" />
@@ -102,7 +97,6 @@
     <Compile Include="LinkedList\ShuffleMergeList.cs" />
     <Compile Include="LinkedList\SortedLinkedList.cs" />
     <Compile Include="LinkedList\UnsortedLinkedList.cs" />
-    <Compile Include="Maths\ToDecimal.cs" />
     <Compile Include="Arrays\NextGreaterElement.cs" />
     <Compile Include="Queues\ArrayQueue.cs" />
     <Compile Include="Queues\IQueue.cs" />
@@ -110,8 +104,6 @@
     <Compile Include="Recursion\Factorial.cs" />
     <Compile Include="Recursion\IsThere.cs" />
     <Compile Include="Recursion\RecBinarySearch.cs" />
-    <Compile Include="Strings\PermutationSignature-TopCoder.cs" />
-    <Compile Include="Strings\RemoveChar.cs" />
     <Compile Include="Matrix\SearchSortedMatrix.cs" />
     <Compile Include="Sorts\HeapSort.cs" />
     <Compile Include="Sorts\MergeSort.cs" />
@@ -120,16 +112,13 @@
     <Compile Include="Recursion\ChangeXY.cs" />
     <Compile Include="Recursion\count7.cs" />
     <Compile Include="Recursion\CountChar.cs" />
-    <Compile Include="Strings\ReverseWordsInAString.cs" />
     <Compile Include="Arrays\Segregate.cs" />
-    <Compile Include="Maths\ShuffleCards.cs" />
     <Compile Include="Arrays\SmallestElementInArray.cs" />
     <Compile Include="Sorts\QuickSort.cs" />
     <Compile Include="Stacks\IStack.cs" />
     <Compile Include="Stacks\LinkedStack.cs" />
     <Compile Include="Queues\LinkedQueue.cs" />
     <Compile Include="Stacks\StackRunner.cs" />
-    <Compile Include="Strings\StringPermute.cs" />
     <Compile Include="BST\BinarySearchTree.cs" />
     <Compile Include="TernaryTree\TernaryTree.cs" />
     <Compile Include="TernaryTree\TernaryTreeRunner.cs" />
